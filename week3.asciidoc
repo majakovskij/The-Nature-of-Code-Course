@@ -28,6 +28,7 @@ Post any questions or comments here.
 * https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/NOC_3_02_forces_angular_motion[Example 3.2: Angular Motion for Moving Body]
 
 
+
 [[week3_trig]]
 [preface]
 == Trigonometry and Polar Coordinates
